@@ -1,0 +1,13 @@
+*{
+  margin: 0  !important;
+  box-sizing: border-box !important;
+}
+.carousel-image{
+  height: 550px;
+}
+.card-img-top{
+  height:200px;
+}
+.img-small{
+  height: 10px;
+}
